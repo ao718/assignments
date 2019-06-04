@@ -1,0 +1,23 @@
+body {
+    background-color: #111111;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+h1 {
+    color:#E2E80F;
+    text-align: center;
+    font-size:100px;
+    
+}
+p {
+    color: #eeeeee;
+    font-size: 20px;
+    margin: 10px;
+    padding: 0px;
+    word-spacing: 5px;
+}
+
+.credits {
+    color: #49DAFF;
+}

@@ -1,0 +1,40 @@
+h1 {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 80px;
+    text-align: center;
+    
+}
+h2{
+    font-family:'Nanum Myeongjo', serif;
+    font-size: 10px;
+    text-align: left;
+    display: inline-block;
+
+}
+
+p {
+    font-family: font-family: 'Nanum Myeongjo', serif;
+    display: block;
+    width: 23em;
+    text-align: left;
+    width: 300px;
+    font-size: 30px;
+}
+
+.bold {
+    font-style: italic;
+    font-family: cursive;
+}
+img {
+    height: 193.9px;
+    width: 300px;
+    
+    
+
+}
+/** .firstparagraph {
+    text-align: left;
+    display: inline-block;
+
+    
+}
