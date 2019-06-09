@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#new-container {
+    border: 4px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    /* height: */
+}
+
+#new-container > div {
+    border: 2px solid blue;
+    margin: 0 5px;
+    padding: 5px;
+    width: 100px;
+    border-radius: 5px;
+}

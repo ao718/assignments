@@ -1,0 +1,27 @@
+*{
+/* background-image: url("mario.jpg"); */
+/* height: 500px; */
+/* width: 500px; */
+
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+.coins{
+    height: 80px;
+    width: 80px;
+}
+
+h2{
+    text-align: center;
+    font-display: ;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}

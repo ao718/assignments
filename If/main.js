@@ -255,15 +255,20 @@ console.log(result)
 
     var cars = ['volkswagen', 'ford', 'mazda','chevy','subaru','jeep']
 
-    //get rid of mazda
+//get rid of mazda
     var mazda = cars.splice(2,1)
     console.log(mazda)
     console.log(cars)
 
-    // Add Tesla in Chevy's place
+// Add Tesla in Chevy's place
     var chevy = cars.splice(3, 1, 'tesla', 'dog','cat')
     console.log(cars.length)
 
-    // .reverse()
-        var sentenceArr = "somanydynamos".split('')
-        console.log(sentenceArr.reverse())
+// .reverse()
+    var sentenceArr = "somanydynamos".split('')
+    console.log(sentenceArr.reverse())
+
+
+
+
+
