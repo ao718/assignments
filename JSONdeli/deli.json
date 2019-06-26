@@ -1,0 +1,43 @@
+{
+    "menu": {
+        "appetizers": [
+            {
+                "type": "fries",
+                "ingredients": ["potatoes", "salt", "oil"],
+                "description": "too much will destroy health"
+            }
+        
+        ],
+         
+        
+        "coldsandwiches": [
+            {
+                 "type":"pastrami on rye",
+                 "ingredients":["pastrami", "rye bread", "mozarella cheese"],
+                 "description": "too much will destroy health"
+            },
+            {
+                "type": 
+            }
+            
+        ],
+
+        
+        "hotsandwiches": [
+            {
+                "type": "Bacon, Egg & Cheese",
+                "ingredients":[ "Bacon", "Egg ", "Cheese "],
+                "description":"too much will destroy health"
+            }
+        
+        ]
+    
+    
+    
+    }
+}
+
+
+
+
+    
